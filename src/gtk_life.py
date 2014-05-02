@@ -1,5 +1,8 @@
 #!/usr/bin/python
- 
+"""
+This file-module provides a view of the Conway "Game of Life" grid.
+It uses the GTK user interface framework.
+"""
 import gtk
 import gobject
  
