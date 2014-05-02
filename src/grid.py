@@ -1,4 +1,7 @@
 '''
+This is basic Conway "Game of Life" implementation.
+This file-module produces the grid (model).
+Another file-modules produces the view.
 Created on Apr 5, 2012
  
 @author: admin
